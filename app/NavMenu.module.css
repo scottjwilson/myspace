@@ -1,0 +1,18 @@
+.nav {
+  display: flex;
+  align-items: center;
+
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  border: 1px solid #ff0000;
+  width: 100%;
+}
+
+.links {
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+  border: 1px solid #ccc;
+  width: 100%;
+}
